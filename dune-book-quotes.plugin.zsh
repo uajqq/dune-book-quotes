@@ -37,10 +37,10 @@ dune_quotes=(
 	"When God hath ordained a creature to die in a particular place, He causeth that creature's wants to direct him to that place.\n - The Orange Catholic Bible"
 	"Greatness is a transitory experience. It is never persistent. It depends in part upon the myth-making imagination of humankind. The person who experiences greatness must have a feeling for the myth he is in. He must reflect what is projected upon him. And he must have a strong sense of the sardonic. This is what uncouples him from belief in his own pretensions. The sardonic is all that permits him to move within himself. Without this quality, even occasional greatness will destroy a man.\n - from Collected Sayings of Muad’Dib by the Princess Irulan"
 	"There is no escape — we pay for the violence of our ancestors.\n - Paul Muad'Dib Atreides"
-	"Yes. They’ll call me Muad’Dib, the one who points the way. Yes that’s what they’ll call me.\n - Paul Atreides"
+	"Yes. They’ll call me Muad’Dib, the one who points the way. Yes that's what they'll call me.\n - Paul Atreides"
 	"Knowing where the trap is, that's the first step in evading it.\n - Thufir Hawat"
 	"Thou shalt not make a machine in the likeness of a human mind.\n - The Orange Catholic Bible"
-	"The vision of time is broad, but when you pass through it, time becomes a narrow door.\n - from Arrakis Awakening by the Princess Irulan" 
+	"The vision of time is broad, but when you pass through it, time becomes a narrow door.\n - from Arrakis Awakening by the Princess Irulan"
 	"A man's flesh is his own; the water belongs to the tribe.\n - Fremen proverb"
 	"Is it defeatist or treacherous for a doctor to diagnose a disease correctly? My only intention is to cure the disease.\n - Lady Jessica"
 	"There should be a science of discontent. People need hard times and oppression to develop psychic muscles.\n - from Collected Sayings of Muad'Dib by the Princess Irulan"
@@ -68,7 +68,7 @@ dune_quotes=(
 	"Science is made up of so many things that appear obvious after they are explained.\n - Pardot Kynes"
 	"No more terrible disaster could befall your people than for them to fall into the hands of a Hero.\n - Pardot Kynes"
 	"Then, as his planet killed him, it occurred to Kynes that his father and all the other scientists were wrong, that the most persistent principles of the universe were accident and error.\n"
-	"Prophecy and prescience — How can they be put to the test in the face of the unanswered questions? Consider: How much is actual prediction of the "wave form" (as Muad'Dib referred to his vision-image) and how much is the prophet shaping the future to fit the prophecy? What of the harmonics inherent in the act of prophecy? Does the prophet see the future or does he see a line of weakness, a fault or cleavage that he may shatter with words or decisions as a diamond-cutter shatters his gem with a blow of a knife?\n - Private Reflections on Muad'Dib by the Princess Irulan"
+	"Prophecy and prescience — How can they be put to the test in the face of the unanswered questions? Consider: How much is actual prediction of the 'wave form' (as Muad'Dib referred to his vision-image) and how much is the prophet shaping the future to fit the prophecy? What of the harmonics inherent in the act of prophecy? Does the prophet see the future or does he see a line of weakness, a fault or cleavage that he may shatter with words or decisions as a diamond-cutter shatters his gem with a blow of a knife?\n - Private Reflections on Muad'Dib by the Princess Irulan"
 	"To save one from a mistake is a gift of paradise./n - Stilgar"
 	"A killer with the manners of a rabbit - this is the most dangerous kind.\n - Baron Vladimir Harkonnen"
 	"The Fremen were supreme in that quality the ancients called 'spannungsbogen' — which is the self-imposed delay between desire for a thing and the act of reaching out to grasp that thing.\n - from The Wisdom of Muad'Dib by the Princess Irulan"
@@ -97,6 +97,7 @@ dune_quotes=(
 
 )
 # "\e[1m" = bold
-echo "\e[1m${dune_quotes[$(($RANDOM % ${#dune_quotes[@]} + 1))]}"
+echo
+echo "\e[1m${dune_quotes[$(($RANDOM % ${#dune_quotes[@]} + 1))]}" | fold -s -w 80
 echo
 unset dune_quotes
