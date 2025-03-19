@@ -132,6 +132,6 @@ dune_quotes=(
 # "\e[1m" = bold
 RANDOM=$(date +%s%N | cut -b10-19) #improves randomness
 echo
-echo "${dune_quotes[$(($RANDOM % ${#dune_quotes[@]}))]}" | fold -s -w 80
+echo "${dune_quotes[$(($RANDOM % ${#dune_quotes[@]} + 1))]}" | fold -s -w 80 #zsh array starts at 1
 echo
 unset dune_quotes
