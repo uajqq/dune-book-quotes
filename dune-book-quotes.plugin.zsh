@@ -113,7 +113,7 @@ dune_quotes=(
 	"To accept a little death is worse than death itself.\n - Chani"
 
 	# Esmar Tuek
-	"A stone is heavy and the sand is weighty; but a fools wrath is heavier than them both.\n - Esmar Tuek"
+	"A stone is heavy and the sand is weighty; but a fool's wrath is heavier than them both.\n - Esmar Tuek"
 	"Whether a thought is spoken or not it is a real thing and it has powers of reality.\n - Esmar Tuek"
 
 	# Pardot Kynes
