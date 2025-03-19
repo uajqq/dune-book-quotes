@@ -130,7 +130,8 @@ dune_quotes=(
 	"Proper teaching is recognized with ease. You can know it without fail because it awakens within you that sensation which tells you this is something you have always known."
 )
 # "\e[1m" = bold
+RANDOM=$(date +%s%N | cut -b10-19) #improves randomness
 echo
-echo "${dune_quotes[$(($RANDOM % ${#dune_quotes[@]} + 1))]}" | fold -s -w 80
+echo "${dune_quotes[$(($RANDOM % ${#dune_quotes[@]}))]}" | fold -s -w 80
 echo
 unset dune_quotes
