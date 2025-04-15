@@ -6,7 +6,7 @@ dune_quotes=(
 	# Paul Atreides
 	"You should fear me, Mother. I am the Kwisatz Haderach.\n - Paul Muad'Dib Atreides"
 	"There is no escape--we pay for the violence of our ancestors.\n - Paul Muad'Dib Atreides"
-	"Yes. They'll call me Muad'Dib, the one who points the way. Yes that's what they'll call me.\n - Paul Atreides"
+	"They'll call me Muad'Dib, the one who points the way.\n - Paul Atreides"
 	"You cannot back into the future.\n - Paul Muad'Dib Atreides"
 	"The eye that looks ahead to the safe course is closed forever.\n - Paul Muad'Dib Atreides"
 	"The power to destroy a thing is the absolute control over it.\n - Paul Muad'Dib Atreides"
@@ -82,7 +82,7 @@ dune_quotes=(
 
 	# Stilgar
 	"To save one from a mistake is a gift of paradise.\n - Stilgar"
-	"Muad'Dib is wise in the ways of the desert. Muad'Dib creates his own water. Muad'Dib hides from the sun and travels in the cool night. Muad'Dib is fruitful and multiplies over the land. Muad'Dib we call \"instructor-of-boys.\" That is a powerful base on which to build your life, Paul-Muad'Dib, who is Usul among us. We welcome you.\n - Stilgar"
+	"Muad'Dib is wise in the ways of the desert. Muad'Dib creates his own water. Muad'Dib hides from the sun and travels in the cool night. Muad'Dib is fruitful and multiplies over the land. Muad'Dib we call \"instructor-of-boys.\"\n - Stilgar"
 
 	# Fremen
 	"Polish comes from the cities; wisdom from the desert.\n - Arrakeen villager saying"
