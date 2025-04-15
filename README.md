@@ -1,4 +1,4 @@
-dune-quotes
+dune-book-quotes
 ===========
 
 [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh) plugin to print Dune quotes in terminal. This is a fork that includes only quotes from the original Dune, by Frank Herbert. 
