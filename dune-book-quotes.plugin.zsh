@@ -4,13 +4,11 @@ dune_quotes=(
 	## https://en.wikiquote.org/wiki/Dune
 
 	# Paul Atreides
-	"You should fear me, Mother. I am the Kwisatz Haderach.\n - Paul Muad'Dib Atreides"
 	"There is no escape--we pay for the violence of our ancestors.\n - Paul Muad'Dib Atreides"
 	"They'll call me Muad'Dib, the one who points the way.\n - Paul Atreides"
 	"You cannot back into the future.\n - Paul Muad'Dib Atreides"
 	"The eye that looks ahead to the safe course is closed forever.\n - Paul Muad'Dib Atreides"
 	"The power to destroy a thing is the absolute control over it.\n - Paul Muad'Dib Atreides"
-	"Try looking into that place where you dare not look! You'll find me there, staring out at you!\n - Paul Muad'Dib Atreides"
 	"The vision made him want to freeze into immobility, but this, too, was action with its consequences."
 
 	# Princess Irulan
@@ -44,7 +42,6 @@ dune_quotes=(
 
 	# Leto Atreides
 	"Let us not rail about justice as long as we have arms and the freedom to use them.\n - Duke Leto Atreides"
-	"Sir, I honor and respect the personal dignity of any man who respects my dignity.\n - Duke Leto Atreides"
 	"I must rule with eye and claw--as the hawk among lesser birds.\n - Duke Leto Atreides"
 	"Without change something sleeps inside us, and seldom awakens. The sleeper must awaken.\n - Duke Leto Atreides"
 	"Knowing where the trap is, that's the first step in evading it.\n - Duke Leto Atreides"
@@ -52,7 +49,6 @@ dune_quotes=(
 
 	# Lady Jessica
 	"Is it defeatist or treacherous for a doctor to diagnose a disease correctly? My only intention is to cure the disease.\n - Lady Jessica"
-	"There's steel in this man that no one has taken the temper out of.\n - Lady Jessica"
 	"Beginnings are such delicate times.\n - Lady Jessica"
 	"A plan depends as much upon execution as it does upon concept.\n - Lady Jessica"
 	"Delay is as dangerous as the wrong answer.\n - Lady Jessica"
@@ -72,7 +68,6 @@ dune_quotes=(
 
 	# Reverend Mother
 	"You've heard of animals chewing off a leg to escape a trap? There's an animal kind of trick. A human would remain in the trap, endure the pain, feigning death that he might kill the trapper and remove a threat to his kind.\n - Reverend Mother Gaius Helen Mohiam"
-	"Hope clouds observation.\n - Reverend Mother Gaius Helen Mohiam"
 	"Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.\n - Reverend Mother Gaius Helen Mohiam"
 	"They tried and died.\n - Reverend Mother Gaius Helen Mohiam"
 	"In politics, the tripod is the most unstable of all structures.\n - Reverend Mother Gaius Helen Mohiam"
@@ -123,9 +118,6 @@ dune_quotes=(
 
 	# Duncan Idaho 
 	"Expect only what happens in the fight. That way you'll never be surprised.\n - Duncan Idaho"
-
-	# Feyd-Rautha Harkonnen
-	"I'll sheath my knife in your blood.\n - Feyd-Rautha Harkonnen"
 
 	"Proper teaching is recognized with ease. You can know it without fail because it awakens within you that sensation which tells you this is something you have always known."
 )
