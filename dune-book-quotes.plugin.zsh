@@ -53,6 +53,7 @@ dune_quotes=(
 	"A plan depends as much upon execution as it does upon concept.\n - Lady Jessica"
 	"Delay is as dangerous as the wrong answer.\n - Lady Jessica"
 	"Humans live best when each has his own place, when each knows where he belongs in the scheme of things. Destroy the place and destroy the person.\n - Lady Jessica"
+    "When religion and politics travel in the same cart, the riders believe nothing can stand in their way. Their movements become headlong — faster and faster and faster. They put aside all thoughts of obstacles and forget the precipice does not show itself to the man in a blind rush until it’s too late.\n - Lady Jessica"
 
 	# Baron Harkonnen
 	"One must always keep the tools of statecraft sharp and ready. Power and fear--sharp and ready.\n - Baron Vladimir Harkonnen"
